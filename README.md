@@ -18,9 +18,9 @@ ___
 
 ## 💛 **`M E L I O D A S - B O T`**    
 
-![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
+![Menú Principal](https:///file:///storage/662D-1E1D/Android/data/com.android.chrome/files/Download/553310aa-6c40-42fb-9c63-80c8c37e5a60.gif)
 
-<a><img src='file:///storage/662D-1E1D/Android/data/com.android.chrome/files/Download/553310aa-6c40-42fb-9c63-80c8c37e5a60.gif'/></a>   
+<a><img src='https:///file:///storage/662D-1E1D/Android/data/com.android.chrome/files/Download/553310aa-6c40-42fb-9c63-80c8c37e5a60.gif'/></a>   
 
 <a href="https://github.com/WillZek/AstaBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+MeliodasBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
