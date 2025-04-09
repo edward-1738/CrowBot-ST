@@ -41,7 +41,7 @@ ___
 [![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
 
 
-<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/CROWBOT💛 | WILLZEK 💛 | MOON FORCE 💛-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
+<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/MeliodasBot💛 | Edward 💛 | MOON FORCE 💛-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <!-- RAINBOW LINE BOT -->
@@ -52,7 +52,7 @@ ___
 
 ![Menu Secundario](https://files.catbox.moe/ugr9af.jpg)
 
-> Enlaces Oficiales De CrowBot
+> Enlaces Oficiales De MeliodasBot
 
 ### **`🔗 OBTEN LOS ENLACES`**
 
