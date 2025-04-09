@@ -242,9 +242,9 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 <a href="https://github.com/Manuel12yt"><img src="https://github.com/Manuel12yt.png" width="100" height="100" alt="Manuel12yt"/></a>
 
 
-## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
+## **`❤️ 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
+href="https://github.com/edward-1738"><img src="https://github.com/edward-1738.png" width="130" height="130" alt="Edward"/></a>
 
 </details>
 
