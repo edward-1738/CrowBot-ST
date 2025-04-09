@@ -21,13 +21,13 @@ export async function before(m, { conn, participants, groupMetadata }) {
   const welcomeMessage = global.db.data.chats[m.chat]?.welcomeMessage || 'Bienvenido/a :';
 
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
-    let bienvenida = `┏╼★${textbot}\n┋「 Bienvenido 」\n┗╼★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n ┋❖ ${welcomeMessage}\n ┋❀  ${groupMetadata.subject}\n ┗━━━━━━━━━━━━━━━┅ ⳹\n> ✐ Puedes usar *#profile* para ver tu perfil.`
+    let bienvenida = `┏╼★${𝐦𝐞𝐥𝐢𝐨𝐝𝐚𝐬 𝐛𝐨𝐭}\n┋「 Bienvenido 」\n┗╼★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n ┋❖ ${welcomeMessage}\n ┋❀  ${groupMetadata.subject}\n ┗━━━━━━━━━━━━━━━┅ ⳹\n> ✐ Puedes usar *#profile* para ver tu perfil.`
       await conn.sendMessage(m.chat, { image: img, caption: bienvenida, mentions: [who] }, { quoted: estilo })
     } else if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_REMOVE || m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_LEAVE) {
 
 const despMessage = global.db.data.chats[m.chat]?.despMessage || 'Se Fue😹';
 
-     let bye = `┏╼★${textbot}\n┋「 ADIOS 👋 」\n┗╼★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n ┋❖ ${despMessage}\n ┋❀ Jamás te quisimos aquí\n ┗━━━━━━━━━━━━━━━┅ ⳹\n> ${dev}`
+     let bye = `┏╼★${𝐦𝐞𝐥𝐢𝐨𝐝𝐚𝐬 𝐛𝐨𝐭}\n┋「 ADIOS 👋 」\n┗╼★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n ┋❖ ${despMessage}\n ┋❀ Jamás te quisimos aquí\n ┗━━━━━━━━━━━━━━━┅ ⳹\n> ${dev}`
       await conn.sendMessage(m.chat, { image: img, caption: bye, mentions: [who] }, { quoted: estilo })
     }
   }
