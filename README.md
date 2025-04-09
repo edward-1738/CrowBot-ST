@@ -16,7 +16,7 @@ __
 ___
 
 
-## 💛 **`C R O W - B O T`**    
+## 💛 **`A S T A - B O T`**    
 
 ![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
 
