@@ -21,7 +21,7 @@ ___
 
 
 
-<a href="https://github.com/WillZek/AstaBot-ST"><img src="https://cardivo.vercel.app/api?name=MeliodasBot&repo=MeliodasBot-ST&description=Hola+Soy+MeliodasBot+Disfruta+del+Bot+De+WhatsApp.&image=[url=https://imgbb.com/][img]https://i.ibb.co/cXTTQd4n/IMG-20250409-WA0181.jpg[/img][/url]?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=18096083286&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/WillZek/AstaBot-ST"><img src="https://cardivo.vercel.app/api?name=MeliodasBot&repo=MeliodasBot-ST&description=Hola+Soy+MeliodasBot+Disfruta+del+Bot+De+WhatsApp.&=crowbot_wa&whatsapp=18096083286&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ Edward+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
 
