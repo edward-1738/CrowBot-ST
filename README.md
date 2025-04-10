@@ -96,8 +96,9 @@ href="https://wa.me/18096083286?text="><img src="https://files.catbox.moe/44q2o7
 <summary><b> 📞 Toca Aqui</b></summary>
 
 - **Propietario:** [`Aquí`](https:/Wa.me/18096083286)
-- **Github:** [`Aqui`]()
-- **Correo:** [`Aqui`](matosanthony767@gmail.com@gmail.com)
+- **Github:** [`Aqui`](https://github.com/edward-1738)
+- **Correo:**
+[`Aqui`](matosanthony767@gmail.com@gmail.com)
 
 </details>
 
