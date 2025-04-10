@@ -96,9 +96,8 @@ href="https://wa.me/18096083286?text="><img src="https://files.catbox.moe/44q2o7
 <summary><b> 📞 Toca Aqui</b></summary>
 
 - **Propietario:** [`Aquí`](https:/Wa.me/18096083286)
-- **Github:** [`Aqui`](https://github.com/WillZek)
-- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
-- **Correo:** [`Aqui`](ninopina10@gmail.com)
+- **Github:** [`Aqui`]()
+- **Correo:** [`Aqui`](matosanthony767@gmail.com@gmail.com)
 
 </details>
 
