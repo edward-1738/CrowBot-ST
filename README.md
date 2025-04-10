@@ -50,7 +50,7 @@ ___
 
 ### **`🎩 INFORMACION IMPORTANTE`**
 
-![Menu Secundario](https://files.catbox.moe/ugr9af.jpg)
+![Menu Secundario](https://ibb.co/mFzz47fW.jpg)
 
 > Enlaces Oficiales De MeliodasBot
 
