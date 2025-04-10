@@ -20,7 +20,6 @@ ___
 
 
 
-<a><img src='https://ibb.co/mFzz47fW'/></a>   
 
 <a href="https://github.com/WillZek/AstaBot-ST"><img src="https://cardivo.vercel.app/api?name=MeliodasBot&repo=MeliodasBot-ST&description=Hola+Soy+MeliodasBot+Disfruta+del+Bot+De+WhatsApp.&image=[url=https://imgbb.com/][img]https://i.ibb.co/cXTTQd4n/IMG-20250409-WA0181.jpg[/img][/url]?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=18096083286&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
