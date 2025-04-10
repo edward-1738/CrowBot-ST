@@ -148,66 +148,7 @@ npm start
 
 > **Si después de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal**
 
-> [**`CrowBot Archivos`**](https://github.com/WillZek/CrowBot-ST/archive/refs/heads/master.zip)
-
-</details>
-
----
-
-
-* Dashboard: [`Dash`](https://dash.luminarys.shop)
-* Panel: [`Panel`](https://panel.luminarys.shop)
-* Grupo: [`Aquí`](https://chat.whatsapp.com/L29DaYhqORo2wBEF95j9D3)
-* Contacto(s): [`Vegeta`](https://wa.me/526633900512) / [`Marcos`](https://wa.me/525653326435) / [`Adrian`](https://wa.me/595976126756)
-
-</details>
-
-#### **`☁️ SKY ULTRA PLUS`**
-
-<a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
-
-<details>
- <summary><b> 🌹 servidor Sky</b></summary>
-
-* Dashboard  [`Dash`](https://dash.skyultraplus.com)
-* Panel [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp [`Canal sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto(s) [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
-* Discord [`SkyUltraPlus`](https://discord.gg/Ph4eWsZ8)
-
-</details>
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-#### **`🌌 Hosting Py:`**
-
-<a
-href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jpg" height="125px"></a>
-
-<details>
- <summary><b> 🌠 Servidor HostingPy</b></summary>
-
-* Dashboard  [`Dash`](https://dash.hostingpy.shop)
-* Panel [`Panel`](https://panel.hostingpy.shop)
-* Canal de WhatsApp [`Canal Hosting`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-* Contacto(s) [`Soporte`](https://wa.me/595976126756)
-
-> **`Usa Mi Código de Referencia`**:
- LgZKVYOK
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-</details>
-
-</details>
-
+> [**`CrowBot Archivos`**](https://github.com/edward-1738/CrowBot-ST/archive/refs/heads/master.zip)
 
 
 ## **`❤️ 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
