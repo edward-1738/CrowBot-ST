@@ -102,16 +102,14 @@ href="https://wa.me/18096083286?text="><img src="https://files.catbox.moe/44q2o7
 
 </details>
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### **`🖤 TERMUX INFORMACIÓN`**
 
 > [!IMPORTANT]
-> **CrowBot No Recibe Mucho Mantenimiento En Termux**
+> **MeliodasBot No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
-> **Puedes Utilizar Servidores Para Instalar A CrowBot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De CrowBot!**
+> **Puedes Utilizar Servidores Para Instalar A CrowBot o Compra Tu [Token](https://Meliodas-bot-dashboard.vercel.app/) En La Pagina Oficial De MeliodasBot!**
 
 
 #### **`🌠 Click en la imagen para obtener termux`**
@@ -156,18 +154,6 @@ npm start
 
 ---
 
-### 🍭 `HOSTINGS INFORMACION`
-
-![Informacion](https://qu.ax/LgBRM.jpg)
-
-<details>
- <summary><b> 🎩 𝗛𝗢𝗦𝗧𝗜𝗡𝗚𝗦 𝗗𝗘 𝗖𝗔𝗟𝗜𝗗𝗔𝗗</b></summary>
-
-###  **`🍬 LUMINARY'S - HOSTING`**
-<a href="https://dash.luminarys.shop/home"><img src="https://qu.ax/aHudo.jpg" height="145px"></a>
-
-<details>
- <summary><b>🍂 Servidor Luminary's - Host</b></summary>
 
 * Dashboard: [`Dash`](https://dash.luminarys.shop)
 * Panel: [`Panel`](https://panel.luminarys.shop)
