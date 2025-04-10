@@ -18,7 +18,7 @@ ___
 
 ## 💛 **`M E L I O D A S - B O T`**    
 
-![Menú Principal](https:///file:///storage/662D-1E1D/Android/data/com.android.chrome/files/Download/553310aa-6c40-42fb-9c63-80c8c37e5a60.gif)
+![Menú Principal](https://ibb.co/mFzz47fW)
 
 <a><img src='https:///file:///storage/662D-1E1D/Android/data/com.android.chrome/files/Download/553310aa-6c40-42fb-9c63-80c8c37e5a60.gif'/></a>   
 
